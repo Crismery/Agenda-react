@@ -1,0 +1,9 @@
+.padre {
+    background-color: lightgray;
+    float: left;
+    border: 1px solid #CCC;
+    padding: .5em;
+    border-radius: 5px;
+    position: relative;
+     
+  }
